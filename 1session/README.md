@@ -49,7 +49,7 @@ $ python manage.py startapp <앱 명>
 $ python manage.py runserver
 ```
 
-## 알면 편리한 그리고 알아야되는 명령어들
+## 알면 편리한 그리고 알아야되는 명령어들과 단축키
 - 상위폴더로 이동
 ```bash
 $ cd ..
@@ -60,4 +60,4 @@ $ cd ..
     - Ctrl + K + U : 주석해제
     - Ctrl + `     : 터미널켜기
     - Ctrl + C : 터미널에서 서버끄기 및... 흠... 무언가를 실행할때 종료
-    
+
