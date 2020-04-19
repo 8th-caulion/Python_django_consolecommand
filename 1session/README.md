@@ -54,7 +54,12 @@ $ python manage.py runserver
 ```bash
 $ cd ..
 ```
-- 단축키
+-하위 디렉토리 출력
+```bash
+$ ls
+```
+
+- 단축키(제가 자주쓰는 것들이라 안쓰셔도 되요!!)
     - Ctrl + K + F : 줄정리
     - Ctrl + K + C : 전체주석
     - Ctrl + K + U : 주석해제
