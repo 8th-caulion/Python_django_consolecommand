@@ -18,8 +18,13 @@ $ python -m venv <가상환경이름(보통은 myvenv로 사용!)>
 ``` 
 
 4. 가상환경을 켜준다
+  - Windows
 ```bash
 $ source <가상환경이름>/Scripts/activate
+```
+  - Mac
+```bash
+$ source <가상환경이름>/bin/activate
 ```
 
 5. 장고를 설치한다.
