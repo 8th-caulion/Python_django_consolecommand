@@ -59,7 +59,7 @@ $ python manage.py runserver
 ```bash
 $ cd ..
 ```
--하위 디렉토리 출력
+- 하위 디렉토리 출력
 ```bash
 $ ls
 ```
